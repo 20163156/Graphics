@@ -14,7 +14,8 @@
 
 ### 3. 팀 소개
 
-유감을 수행하는 OhTube팀 입니다.
+###OhTube
+유감을 수행하는 OhTube팀입니다.
 <img src="https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png"  width = "300px" height = "300px"></img>
 
 ### 정지연
