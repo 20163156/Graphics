@@ -39,7 +39,7 @@
 
 
 ```markdown
-* email: jh15501551@gmail.com
+* email: escs34@gmail.com
 * role: 영상 감성 분석  , 영상 전처리
 ```
 
@@ -57,7 +57,7 @@
 
 
 ```markdown
-* email: leejj5645@gmail.com
+* email: moxenorljr@gmail.com
 * role: Web Front End 개발
 ```
 
