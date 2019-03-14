@@ -15,7 +15,8 @@
 ### 3. 팀 소개
 
 ### 정지연
-![alt text](https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png){:width = "30%" height = "30%")}
+![jeong](https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png){: width="100" height="100"}
+
 ```markdown
 * email: 97jjy@kookmin.ac.kr
 * role:댓글 분석 팀 , 데이터 전처리 
