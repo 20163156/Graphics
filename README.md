@@ -15,7 +15,9 @@
 ### 3. 팀 소개
 
 ### 정지연
-![jeong](https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png){: width="100" height="100"}
+![jeong](https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png)
+<img width = "100px" height = "100px"></img>
+
 
 ```markdown
 * email: 97jjy@kookmin.ac.kr
