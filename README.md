@@ -16,8 +16,8 @@
 
 ### 정지연
 ```markdown
-*email: 97jjy@kookmin.ac.kr
-*role:댓글 분석 팀 , 데이터 전처리 
+* email: 97jjy@kookmin.ac.kr
+* role:댓글 분석 팀 , 데이터 전처리 
 
 ```
 
