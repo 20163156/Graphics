@@ -1,6 +1,6 @@
 
-# Welcome to OhTube
-**팀페이지 주소** -> https://kookmin-sw.github.io/ `{{자신의 리파지토리 아이디}}`
+# 유감(유튜브 감성분석)
+**팀페이지 주소** -> https://kookmin-sw.github.io/`{{자신의 리파지토리 아이디}}`
 
 ### 1. 프로잭트 소개
 
@@ -18,9 +18,12 @@
 ```markdown
 * email: 97jjy@kookmin.ac.kr
 * role:댓글 분석 팀 , 데이터 전처리 
-
 ```
-
+### 정지연
+```markdown
+* email: 97jjy@kookmin.ac.kr
+* role:댓글 분석 팀 , 데이터 전처리 
+```
 
 ## Markdown을 사용하여 내용꾸미기
 
