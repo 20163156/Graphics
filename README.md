@@ -48,7 +48,7 @@
 * role: 댓글 감성 분석  , 유튜브 댓글 크롤링
 ```
 
-###양동철
+### 양동철
 <img src="https://github.com/20163156/Graphics/blob/master/%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%86%B8.png"  width = "300px" height = "300px"></img>
 
 
